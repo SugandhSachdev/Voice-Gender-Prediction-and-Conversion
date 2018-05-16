@@ -1,4 +1,4 @@
-%Babariya,Sachdev
+%Downloaded from http://www.ee.columbia.edu/~dpwe/e4810/matlab/s24/istft.m
 function x = istft(d, ftsize, w, h)
 % X = istft(D, F, W, H)                   Inverse short-time Fourier transform.
 %	Performs overlap-add resynthesis from the short-time Fourier transform 
